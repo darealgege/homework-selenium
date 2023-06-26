@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "selenium-webdriver": "^4.10.0"
+  },
+  "name": "sqe_hometask",
+  "version": "1.0.0",
+  "description": "Module 17-19: Automation with Programming",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gergely Debreceni",
+  "license": "MIT"
+}
